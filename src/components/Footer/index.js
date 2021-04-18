@@ -6,15 +6,15 @@ import { FooterWrapper, Title, Icon, Contact } from './styles';
 export function Footer() {
   return (
     <FooterWrapper>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-12">
-            <div className="box">
+      <div >
+        <div >
+          <div >
+            <div >
               <Logo />
             </div>
           </div>
 
-          <div class="col-md-3 col-12" id="p1">
+          <div >
             <Title>Nosotros</Title>
             <h5>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio,
@@ -22,13 +22,12 @@ export function Footer() {
             </h5>
           </div>
 
-          <div class=" col-md-3 col-12" id="p3">
+          <div >
             <Title>Contactanos</Title>
             <Contact>
               <Icon>
                 <FaPhone />
               </Icon>
-
               <h5>4426217924</h5>
             </Contact>
             <Contact>
@@ -53,8 +52,8 @@ export function Footer() {
         </div>
 
         <hr />
-        <div className="row">
-          <div className="col">
+        <div>
+          <div >
             &copy; {new Date().getFullYear()} vic_prat | Todos Los Derechos
             Reservados
           </div>
