@@ -1,6 +1,5 @@
 import React from 'react';
 import { Logo } from '../Logo';
-import { StyledLink } from '../StyledLink';
 import { FaFacebook, FaInstagram, FaPhone, FaEnvelope } from 'react-icons/fa';
 import { FooterWrapper, Title, Icon, Contact } from './styles';
 
@@ -29,6 +28,7 @@ export function Footer() {
               <Icon>
                 <FaPhone />
               </Icon>
+
               <h5>4426217924</h5>
             </Contact>
             <Contact>

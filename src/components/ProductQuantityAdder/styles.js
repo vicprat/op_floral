@@ -6,6 +6,6 @@ export const ProductQuantityAdderWrapper = styled.div`
            margin-bottom: 10px;
          }
          > form {
-           display: flex;
+           display: grid;
          }
        `;

@@ -19,6 +19,8 @@ export * from './StyledLink';
 export * from './Navigation';
 export * from './Footer';
 export * from './HomeBanner';
+export * from './AboutSection';
+export * from './CollabsGrid';
 
 
 
