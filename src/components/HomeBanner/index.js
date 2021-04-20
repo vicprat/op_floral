@@ -17,18 +17,14 @@ export function HomeBanner() {
               <h1>Vívelo con</h1>
               <h6>Flores</h6>
             </div>
-            <div className="description">
-              <p>-Oscar Wilde</p>
-              <StyledLink>¡Conoce Más!</StyledLink>
-            </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src={slide2} alt="this is the second silde" />
+          <img src={slide3} alt="this is the second silde" />
           <Carousel.Caption>
-            <div className="title">
-              <h1>Celebremos a nuestras madres con un detalle</h1>
-              <h6>especial</h6>
+          <div className="title">
+              <h1>Celebra a mamá con un detalle</h1>
+              <h6>Floral</h6>
             </div>
             <div className="description">
               <p>
@@ -40,16 +36,15 @@ export function HomeBanner() {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src={slide3} alt="this is the thrid silde" />
+          <img src={slide2} alt="this is the thrid silde" />
           <Carousel.Caption>
-            <div className="title">
-              <h1>Celebremos a nuestras madres con un detalle</h1>
-              <h6>especial</h6>
+          <div className="title">
+              <h1>Una flor florece para su</h1>
+              <h6>propia alegría</h6>
             </div>
             <div className="description">
               <p>
-                Éste 10 de mayo haz que esa mujer tan especial reciba un arreglo
-                único para festejar
+               -Oscar Wilde
               </p>
               <StyledLink>¡Conoce Más!</StyledLink>
             </div>

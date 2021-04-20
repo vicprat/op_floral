@@ -3,10 +3,10 @@ import styled from 'styled-components';
 export const ImageGalleryWrapper = styled.section`
          > div:first-child {
            border: 1px solid black;
-           width: 500px;
+     
          }
          > div:last-child {
-            width: 300px;
+      
            margin-top: 5px;
            display: grid;
            grid-template-columns: repeat(2, 1fr);

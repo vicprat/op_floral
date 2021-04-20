@@ -25,7 +25,7 @@ export const Title = styled.div`
          font-size: 1.5rem;
          font-family: 'Oswald', sans-serif;
          bottom: 10%;
-         font-weight: normal;
+         font-weight: 300;
        `;
 
 export const Description = styled.div`
@@ -39,5 +39,5 @@ export const Price = styled.div`
          width: 100%;
          font-family: 'Oswald', sans-serif;
          bottom: 1%;
-         font-weight: bold;
+         font-weight: lighter;
        `;
