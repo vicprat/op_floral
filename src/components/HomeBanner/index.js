@@ -18,7 +18,6 @@ export function HomeBanner() {
               <h6>Flores</h6>
             </div>
             <div className="description">
-              <p>-Oscar Wilde</p>
               <StyledLink>¡Conoce Más!</StyledLink>
             </div>
           </Carousel.Caption>
@@ -43,8 +42,8 @@ export function HomeBanner() {
           <img src={slide3} alt="this is the thrid silde" />
           <Carousel.Caption>
             <div className="title">
-              <h1>Celebremos a nuestras madres con un detalle</h1>
-              <h6>especial</h6>
+              <h1>Una flor florece para si misma.</h1>
+              <p>-Oscar Wilde</p>
             </div>
             <div className="description">
               <p>
