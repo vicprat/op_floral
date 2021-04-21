@@ -31,7 +31,7 @@ export function HomeBanner() {
             </div>
             <div className="description">
               <p>
-                Éste 10 de mayo haz que esa mujer tan especial reciba un arreglo
+                Éste 10 de mayo haz que esa mujertan especial reciba un arreglo
                 único para festejar
               </p>
               <StyledLink>¡Conoce Más!</StyledLink>
@@ -43,7 +43,7 @@ export function HomeBanner() {
           <Carousel.Caption>
             <div className="title">
               <h1>Una flor florece para si misma.</h1>
-              <p>-Oscar Wilde</p>
+              <p>especial</p>
             </div>
             <div className="description">
               <p>
