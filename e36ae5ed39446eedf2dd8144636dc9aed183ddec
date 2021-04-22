@@ -1,0 +1,141 @@
+[33mcommit b738ad0f68d7f76a373c1280e5ace11f46ea2fb2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 90c498c 059078c
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Wed Apr 21 02:41:47 2021 -0500
+
+    Merge branch 'main' of https://github.com/vicprat/op_floral
+
+[33mcommit 90c498cf1f4b6c94c918b96648f088f605392bf9[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Wed Apr 21 02:28:48 2021 -0500
+
+    Reset
+
+[33mcommit 059078c52d11e469b9212f59e019e96b205f1626[m
+Merge: 0c71485 a8c0a3b
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Wed Apr 21 01:36:44 2021 -0500
+
+    Merge branch 'main' of https://github.com/vicprat/op_floral
+
+[33mcommit 0c71485e826845f839f1f428d60d0d517de3f5e9[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Wed Apr 21 01:01:51 2021 -0500
+
+    Revert "logobug??"
+    
+    This reverts commit a8c0a3b1246d6d02fdb8757feca7bec5141dac26.
+
+[33mcommit 20efd0400fd5de1ca9b797c2235d7ff5f544acdc[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Mon Apr 19 20:05:05 2021 -0500
+
+    graphql bug
+
+[33mcommit a8c0a3b1246d6d02fdb8757feca7bec5141dac26[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Mon Apr 19 19:54:17 2021 -0500
+
+    logobug??
+
+[33mcommit 837c09bc59727c251df567006e738673b2edcb48[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Mon Apr 19 19:36:51 2021 -0500
+
+    logobug?
+
+[33mcommit 16bdd6b5c6d1b08fe88d6658021f0880cfcf106a[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Sun Apr 18 11:51:32 2021 -0500
+
+    wierd bug
+
+[33mcommit eb58ac737f77335443161a8f1650883bd88ab4fc[m[33m ([m[1;32mGraphQlBug[m[33m)[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Sun Apr 18 11:34:07 2021 -0500
+
+    Responsive, Collab grid & About section
+
+[33mcommit e36ae5ed39446eedf2dd8144636dc9aed183ddec[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Fri Apr 16 12:29:31 2021 -0500
+
+    navbar
+
+[33mcommit ce1994725bb73b4f60061f1b5ee3377b4205214a[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Fri Apr 16 12:22:06 2021 -0500
+
+    Home banner component & some styles
+
+[33mcommit 3a6d9db2edba056e2dbda390ebafe6b915ce446e[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Wed Apr 14 17:19:05 2021 -0500
+
+    home banner, all products grid
+
+[33mcommit 98a4d4ff60fb079c74653b7d9b99550f1137af2e[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Wed Apr 14 11:38:23 2021 -0500
+
+    before banner section v2
+
+[33mcommit cd040eafc12246f3e5a61fd64a22acf758263295[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Tue Apr 13 04:06:12 2021 -0500
+
+    Carousel & Layout Styles
+
+[33mcommit c740cde0ef963d40fa4cf28f885005496f1e13e8[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Sun Apr 11 22:06:47 2021 -0500
+
+    Nav bar
+
+[33mcommit 4d4d3f3bcb522f181aaf052847149937c671d078[m
+Author: Victor Prado <vicknan0182@gmail.com>
+Date:   Sun Apr 11 21:50:07 2021 -0500
+
+    Styles changes
+
+[33mcommit d1b783cc5aa9442af19452c638245cf064d180c8[m
+Author: Victor Prado <vic182_nan@hotmail.com>
+Date:   Mon Apr 5 21:17:51 2021 -0500
+
+    Export to new pc
+
+[33mcommit f9ec9dbffb82d4f44a1061fff6ea95fbbe05afd2[m
+Author: Victor Prado <vic182_nan@hotmail.com>
+Date:   Sun Mar 28 22:19:47 2021 -0600
+
+    Product page, fonts, body BG, BTN´s & minor styles
+
+[33mcommit 750ff3a83a24c58bc7ee175dad29b94e224f08ee[m
+Author: vicprat <68935000+vicprat@users.noreply.github.com>
+Date:   Sat Mar 27 23:36:48 2021 -0600
+
+    Rename Index.js to index.js
+
+[33mcommit a173dcf3f4fd9598ebbcc163a2c861f0583833c6[m
+Author: Victor Prado <vic182_nan@hotmail.com>
+Date:   Sat Mar 27 23:34:16 2021 -0600
+
+    commit 2
+
+[33mcommit 4f2db973a52689e4bdc41d6a0497b2bbe41a9fcc[m
+Author: Victor Prado <vic182_nan@hotmail.com>
+Date:   Sat Mar 27 23:21:38 2021 -0600
+
+    bugfix
+
+[33mcommit 3c2d5255412183da706b6b51a1c8efe3ba0a404e[m
+Author: Victor Prado <vic182_nan@hotmail.com>
+Date:   Wed Mar 24 20:35:34 2021 -0600
+
+    Initial Commit
+
+[33mcommit 791473524d598a6442fbf7534c252c51414cd2d2[m
+Author: Victor Prado <vic182_nan@hotmail.com>
+Date:   Sun Mar 7 01:14:07 2021 -0600
+
+    Initial commit from gatsby: (https://github.com/tomphill/gatsby-shopify-starter.git)
