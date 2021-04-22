@@ -4,7 +4,6 @@ const fullWidthStyles = ({ fullWidth }) => {
   if (fullWidth) {
     return css`
       display: block;
-      width: 100%;
     `;
   }
 };
@@ -36,17 +35,19 @@ export const Button = styled.button`
     border-color: #999;
     cursor: not-allowed;
     color: #999; */ 
-   
+  margin-left: 2.5rem;
   display: block;
   height: 44px;
+  margin: 5px 10px;
   line-height: 40px;
-  font-size: 18px;
+  font-size: 1.2rem;
   font-family: 'Oswald', sans-serif;
+  font-weight: 300;
   text-transform: uppercase;
   text-decoration: none;
   color: #333;
   background: none;
-  border: 1px solid #333;
+  border: 1px solid #ccc;
   letter-spacing: 2px;
   text-align: center;
   position: relative;

@@ -5,7 +5,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 export function Logo() {
   const data = useStaticQuery(graphql`
     {
-      file(relativePath: { eq: "nav.png" }) {
+      file(relativePath: { eq: "logo.png" }) {
         childImageSharp {
           fixed(width: 150) {
             ...GatsbyImageSharpFixed_withWebp

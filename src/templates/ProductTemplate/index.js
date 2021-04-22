@@ -8,6 +8,7 @@ import {
   Button,
   SEO,
 } from 'components';
+
 import { Grid, SelectWrapper, Price } from '../styles';
 import CartContext from 'context/CartContext';
 import { navigate, useLocation } from '@reach/router';
@@ -61,10 +62,10 @@ export default function ProductTemplate(props) {
         description={props.data.shopifyProduct.description}
         title={props.data.shopifyProduct.title}
       />
-      <Button onClick={() => navigate(-1)}>Regresar</Button>
+      <Button onClick={() => navigate(-1)}>Atras</Button>
       <Grid>
         <div>
-          <h1>{props.data.shopifyProduct.title}</h1>
+          <h6>{props.data.shopifyProduct.title}</h6>
           <p>{props.data.shopifyProduct.description}</p>
           {product?.availableForSale && !!selectedVariant && (
             <>
